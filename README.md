@@ -1,4 +1,5 @@
 # Zabbix Security Monitoring Lab
+![YAML](https://img.shields.io/badge/yaml-%23ffffff.svg?style=for-the-badge&logo=yaml&logoColor=151515)
 
 Ambiente de monitoramento de infraestrutura e observação de segurança usando **Zabbix**, rodando localmente via **Docker**, com foco em detectar sinais de segurança em uma máquina Windows (tentativas de login falho, novos serviços instalados, status do Windows Defender) e notificar automaticamente por e-mail.
 
